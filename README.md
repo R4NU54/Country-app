@@ -9,3 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## API
 
 This application uses the ENDPOINTS from REST API `https://restcountries.com/v3.1` to query the data of countries, capitals, population, etc. and display them on the screen.
+
+## Live
+
+https://peppy-starship-dfc8e2.netlify.app/
